@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-browsersync2",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "BrowserSync2 support for DocPad",
   "homepage": "https://github.com/jegtnes/docpad-plugin-browsersync2",
   "keywords": [
