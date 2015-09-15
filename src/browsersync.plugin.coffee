@@ -3,7 +3,7 @@ module.exports = (BasePlugin) ->
     # Define Plugin
     class BrowserSyncPlugin extends BasePlugin
         # Browser Sync
-        name: 'browsersync'
+        name: 'browsersync2'
         config:
             files: false
             open: false
