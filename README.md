@@ -1,3 +1,5 @@
+**This package is a fork of [terminalpixel/docpad-plugin-browsersync](https://github.com/terminalpixel/docpad-plugin-browsersync). This was only a temporary solution while that package didn't have the right version published, and now it does. Please use that instead—this will not be maintained. :)**
+
 # [BrowserSync](http://www.browsersync.io/) Plugin for [DocPad](http://docpad.org/)
 
 Injects BrowserSync into DocPad for live reload functionality and cross device testing.
